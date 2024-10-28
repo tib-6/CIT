@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    padding: 20px;
+}
+
+.div1{
+    background-color: lightgreen;
+    border: 10px solid hotpink;
+    height: 100px;
+    margin-top: 20px;
+    padding: 30px;
+    padding-left: 20px;
+    font-size: 30px;
+}
+.div2{    
+    background-color: lightgreen;
+    border: 10px solid hotpink;
+    height: 100px;
+    width: 100px;
+    margin-top: 20px;
+    padding: 30px;
+    padding-left: 20px;
+    font-size: 40px;
+}
+.div3{
+    border: 10px solid lightblue;
+    
+
+}
