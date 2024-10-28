@@ -1,0 +1,2 @@
+font : Figtree
+main color : rgb(244,208,78)
